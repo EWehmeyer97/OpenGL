@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/evan-wehmeyer/Documents/development/OpenGL/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/opengl_window.dir/src/main.cpp.o -c /home/evan-wehmeyer/Documents/development/OpenGL/src/main.cpp",
+  "file": "/home/evan-wehmeyer/Documents/development/OpenGL/src/main.cpp",
+  "output": "CMakeFiles/opengl_window.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/evan-wehmeyer/Documents/development/OpenGL/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/opengl_window.dir/src/glad.c.o -c /home/evan-wehmeyer/Documents/development/OpenGL/src/glad.c",
+  "file": "/home/evan-wehmeyer/Documents/development/OpenGL/src/glad.c",
+  "output": "CMakeFiles/opengl_window.dir/src/glad.c.o"
+}
+]
